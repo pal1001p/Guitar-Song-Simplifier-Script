@@ -23,5 +23,7 @@ Then move to the src directory and run:
 
 python3 realtime_combo.py `/path/to/wav/file`
 
+This will load in the .wav file provided in the 3rd argument, and process that audio file to extract the chord sequence, beat sequence and list of unique chords used in the song. Immediately after, real-time audio processing will begin. As the user plays their guitar, real-time beats and chords will be extracted and printed to the terminal, along with feedback characterizing whether beats/chords were on time/properly played.
+
 Credits:
 Inspiration taken from madmom, librosa and chords-recognition on GitHub
