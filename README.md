@@ -1,5 +1,5 @@
-# Guitar-Song-Simplifier
-A WIP repo for a personal project focused on simplifying guitar songs.
+# Guitar-Song-Simplifier-Script
+A WIP repo for scripts I'm building for a personal project focused on simplifying guitar songs.
 
 The long-term goal is to develop a full-stack application.
 A user will be able to upload any song, and have its timestamped chords and beats extracted and visualized as a roadmap, along with transcribed lyrics.
